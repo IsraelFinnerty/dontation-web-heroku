@@ -17,7 +17,7 @@
     "@hapi/joi": "^17.1.0",
     "@hapi/vision": "^6.0.0",
     "dotenv": "^8.2.0",
-    "handlebars": "^4.7.2",
+    "handlebars": "^4.7.7",
     "mongoose": "^5.8.11"
   },
   "devDependencies": {
